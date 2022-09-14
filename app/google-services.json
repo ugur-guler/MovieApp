@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123428434568",
+    "project_id": "movieapp-47433",
+    "storage_bucket": "movieapp-47433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123428434568:android:9967b3a268d1c9353e253d",
+        "android_client_info": {
+          "package_name": "com.alcatras.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123428434568-rfm7aeomhicrdi3qec65cvh45dfb3hrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaFQhvC_Ekyg19So8XAyJmuEE148psAyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123428434568-rfm7aeomhicrdi3qec65cvh45dfb3hrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
