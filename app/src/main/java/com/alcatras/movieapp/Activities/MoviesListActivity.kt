@@ -10,15 +10,20 @@ import android.view.MenuItem
 import androidx.appcompat.app.AlertDialog
 import com.alcatras.movieapp.MovieListFragments.MovieTypeFragment
 import com.alcatras.movieapp.R
+import com.alcatras.movieapp.databinding.ActivityMoviesListBinding
 import com.google.firebase.auth.FirebaseAuth
 
 class MoviesListActivity : AppCompatActivity() {
+    private lateinit var binding:ActivityMoviesListBinding
     private lateinit var auth:FirebaseAuth
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_movies_list)
+        binding=ActivityMoviesListBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         auth= FirebaseAuth.getInstance()
         supportFragmentManager.beginTransaction().replace(R.id.fragmentContainer,MovieTypeFragment()).commit()
+
+
 
     }
 

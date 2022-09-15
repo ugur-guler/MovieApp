@@ -8,13 +8,21 @@
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_account_operations.xml" value="0.264" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_movies_list.xml" value="0.16" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_selected_category.xml" value="0.1" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_selected_movie.xml" value="0.1" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_selected_movie2.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/firstlayout.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_details_movie.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_login.xml" value="0.264" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_movie_type.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_one_type_movie.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_register.xml" value="0.2" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/fragment_selected_category.xml" value="0.264" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/movie_layout.xml" value="0.4" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/movie_type_layout.xml" value="0.4" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/secondlayout.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/layout/selectedcategorylayout.xml" value="0.24427083333333333" />
         <entry key="..\:/Users/90551/AndroidStudioProjects/MovieApp/app/src/main/res/menu/menu.xml" value="0.24791666666666667" />
       </map>
     </option>
